@@ -25,13 +25,13 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Pilue Status Monitor
   introTitle: "**Pilue Status Monitor**"
-  introMessage: Uptime monitoring for all DavidCloud hosted services.
+  introMessage: Uptime monitoring for all Pilue hosted services.
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  theme: ocean
+  theme: dark
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
