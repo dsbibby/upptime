@@ -22,45 +22,49 @@
     "url": "https://yewtreefarmselfcatering.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/yewtreefarmselfcatering.co.uk.ico",
     "slug": "yew-tree-farm-self-catering",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 1651,
     "timeDay": 1828,
     "timeWeek": 1651,
     "timeMonth": 1651,
     "timeYear": 1651,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-18": 2
+    }
   },
   {
     "name": "Virtual Bytes",
     "url": "https://virtual-bytes.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/virtual-bytes.co.uk.ico",
     "slug": "virtual-bytes",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2077,
-    "timeDay": 1858,
-    "timeWeek": 2077,
-    "timeMonth": 2077,
-    "timeYear": 2077,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 3693,
+    "timeDay": 10860,
+    "timeWeek": 3693,
+    "timeMonth": 3693,
+    "timeYear": 3693,
+    "dailyMinutesDown": {
+      "2026-03-18": 1
+    }
   },
   {
     "name": "New Holme Cottage",
     "url": "https://newholmecottage.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/newholmecottage.co.uk.ico",
     "slug": "new-holme-cottage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,6 +73,8 @@
     "timeWeek": 722,
     "timeMonth": 722,
     "timeYear": 722,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-18": 0
+    }
   }
 ]
