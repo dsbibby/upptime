@@ -4,15 +4,15 @@
     "url": "https://pilue.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/pilue.co.uk.ico",
     "slug": "pilue",
-    "status": "down",
-    "uptime": "98.50%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.37%",
-    "uptimeYear": "98.50%",
+    "status": "up",
+    "uptime": "98.42%",
+    "uptimeDay": "88.65%",
+    "uptimeWeek": "98.38%",
+    "uptimeMonth": "98.99%",
+    "uptimeYear": "98.42%",
     "time": 557,
-    "timeDay": 330,
-    "timeWeek": 595,
+    "timeDay": 394,
+    "timeWeek": 587,
     "timeMonth": 532,
     "timeYear": 557,
     "dailyMinutesDown": {
@@ -28,7 +28,7 @@
       "2026-06-12": 539,
       "2026-07-25": 115,
       "2026-07-28": 163,
-      "2026-08-05": 0
+      "2026-08-05": 163
     }
   },
   {
