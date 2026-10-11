@@ -64,11 +64,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/virtual-bytes.co.uk.ico",
     "slug": "virtual-bytes",
     "status": "up",
-    "uptime": "98.92%",
+    "uptime": "98.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.58%",
-    "uptimeYear": "98.92%",
+    "uptimeYear": "98.93%",
     "time": 2575,
     "timeDay": 2176,
     "timeWeek": 3059,
@@ -87,9 +87,9 @@
     "url": "https://newholmecottage.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/newholmecottage.co.uk.ico",
     "slug": "new-holme-cottage",
-    "status": "up",
+    "status": "down",
     "uptime": "98.58%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.58%",
@@ -104,7 +104,8 @@
       "2026-03-18": 374,
       "2026-07-21": 830,
       "2026-07-20": 228,
-      "2026-08-18": 161
+      "2026-08-18": 161,
+      "2026-10-11": 0
     }
   }
 ]
